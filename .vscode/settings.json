@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": "fundgroup",
+            "dialect": "MySQL",
+            "name": "fundgroup",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ],
+    "phpfmt.cakephp": true
+}
